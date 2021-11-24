@@ -10,7 +10,7 @@ namespace GitTest.Controllers
     {
         public ActionResult Index()
         {
-            string ver_04;
+            string ver_05;
 
             return View();
         }
